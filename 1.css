@@ -5,7 +5,7 @@ h1 {
 }
 body {
 	font-family: monospace;
-	background-image: url("https://static.vecteezy.com/system/resources/previews/000/121/701/original/vector-lemon-pie-illustration.png")
+	background-image: url("bg.png")
 
 }
 li	{
@@ -19,8 +19,21 @@ h3 {
 }
 body {
 	cursor: url("cursor.cur"), url("cursor.cur"), pointer;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 a {
 	font-size: 30px;
 }
-
+.button {
+	text-decoration: none;
+	background-color: #f0ff8f;
+	color: #60a65b;
+	border-radius: 10px;
+}
+.button:hover {
+	text-decoration: none;
+	background-color: #60a65b;
+	color: #f0ff8f;
+	border-radius: 10px;
+}
