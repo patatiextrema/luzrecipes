@@ -1,0 +1,26 @@
+h1 {
+	font-family: monospace;
+	font-size: 60px;
+	text-shadow: 0.1em 0.1em #fffd73;
+}
+body {
+	font-family: monospace;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/000/121/701/original/vector-lemon-pie-illustration.png")
+
+}
+li	{
+	font-size: 30px;
+}
+h2 {
+	font-size: 45px
+}
+h3 {
+	font-size: 35px
+}
+body {
+	cursor: url("cursor.cur"), url("cursor.cur"), pointer;
+}
+a {
+	font-size: 30px;
+}
+
