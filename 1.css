@@ -5,8 +5,11 @@ h1 {
 }
 body {
 	font-family: monospace;
-	background-image: url("bg.png")
 
+}
+.lemonbg {
+	cursor: url("cursor.cur"), url("cursor.cur"), pointer;
+	background-image: url("bg.png")
 }
 li	{
 	font-size: 30px;
@@ -18,7 +21,6 @@ h3 {
 	font-size: 35px
 }
 body {
-	cursor: url("cursor.cur"), url("cursor.cur"), pointer;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
